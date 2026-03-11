@@ -64,6 +64,15 @@ I am currently building hands-on projects to strengthen my understanding of netw
 
 ---
 
+# Currently Learning
+
+- Advanced Network Security
+- Linux System Administration
+- Network Automation with Python
+- Cloud Infrastructure Fundamentals
+
+---
+
 # Certifications
 
 - Cisco Networking Basics
