@@ -18,28 +18,49 @@ I am currently building hands-on projects to strengthen my understanding of netw
 ## Networking
 - TCP/IP
 - Subnetting
-- VLANs
-- Routing
+- VLAN Configuration
+- Inter-VLAN Routing
+- DHCP
+- DNS Fundamentals
 - Network Troubleshooting
+- OSI Model
+- Access Control Lists (ACLs)
 
-## Security
-- Packet Analysis
+## Cybersecurity
+- Packet Analysis (Wireshark)
 - Network Scanning
+- Security Fundamentals
 - Role-Based Access Control (RBAC)
-- Cybersecurity Fundamentals
+- Log Analysis
+- Basic Vulnerability Assessment
+- Network Segmentation
 
-## Programming
+## Systems & Infrastructure
+- Linux Basics
+- System Troubleshooting
+- System Design Concepts
+- Infrastructure Fundamentals
+- Client-Server Architecture
+
+## Programming & Scripting
 - Python
 - Java
 - SQL
 - C++
-- React
+- Basic Automation Scripts
 
-## Tools
+## Web & Software Development
+- React.js
+- REST APIs (basic understanding)
+- Database Integration
+
+## Tools & Technologies
 - Cisco Packet Tracer
 - Wireshark
-- Git
-- Linux
+- Git & GitHub
+- Linux Terminal
+- Microsoft Excel
+- Database Management Systems
 
 ---
 
@@ -75,5 +96,4 @@ Currently working on projects involving:
 
 # Connect With Me
 
-LinkedIn: (Add your LinkedIn link)  
 Email: sasmit.tomar@mnsu.edu
