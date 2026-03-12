@@ -1,108 +1,92 @@
 # Hi, I'm Sasmit Tomar
 
-Computer Science student at **Minnesota State University, Mankato**  
-Expected Graduation: **Spring 2026**
+Computer Science student at Minnesota State University, Mankato  
+Expected Graduation - Spring 2026
 
 I am interested in building a career in:
 
 - Network Engineering
-- Systems Infrastructure
+- Systems Analysis
 - Cybersecurity
+- Infrastructure and Security Operations
 
-I am currently building hands-on projects to strengthen my understanding of networking, system design, and security analysis.
+I enjoy building practical projects that show how networks, systems, and security concepts work in real environments. My GitHub focuses on hands-on labs, system design, packet analysis, infrastructure architecture, and security documentation.
 
 ---
 
-# Technical Skills
+## About Me
 
-## Networking
+I am a Computer Science student with an interest in networking, systems infrastructure, and cybersecurity. I like working on projects that combine technical problem-solving with documentation and design.
+
+My experience includes:
+
+- enterprise network design using Cisco Packet Tracer
+- data center architecture planning
+- packet and traffic analysis using Wireshark
+- Python-based security and networking tools
+- system analysis and design projects following the SDLC
+- leadership experience as a project manager and student leader
+
+I am currently focused on strengthening my skills for entry-level roles in network engineering, systems support, and cybersecurity.
+
+---
+
+## Technical Interests
+
+- Network Design and Troubleshooting
+- Enterprise Infrastructure
+- Cybersecurity Fundamentals
+- Security Analysis and Documentation
+- Linux and System Administration
+- Secure System Design
+
+---
+
+## Technical Skills
+
+### Networking
 - TCP/IP
 - Subnetting
-- VLAN Configuration
-- Inter-VLAN Routing
+- VLANs
+- Routing
 - DHCP
 - DNS Fundamentals
 - Network Troubleshooting
-- OSI Model
 - Access Control Lists (ACLs)
-
-## Cybersecurity
-- Packet Analysis (Wireshark)
-- Network Scanning
-- Security Fundamentals
-- Role-Based Access Control (RBAC)
-- Log Analysis
-- Basic Vulnerability Assessment
 - Network Segmentation
 
-## Systems & Infrastructure
+### Cybersecurity
+- Packet Analysis
+- Vulnerability Assessment
+- Threat Modeling
+- Security Documentation
+- Role-Based Access Control (RBAC)
+- Log Analysis
+- Basic Secure Coding Concepts
+- Security Risk Review
+
+### Systems and Infrastructure
 - Linux Basics
 - System Troubleshooting
-- System Design Concepts
-- Infrastructure Fundamentals
 - Client-Server Architecture
+- Web-Based System Design
+- Infrastructure Fundamentals
+- Cloud Architecture Concepts
 
-## Programming & Scripting
+### Programming and Tools
 - Python
 - Java
 - SQL
 - C++
-- Basic Automation Scripts
-
-## Web & Software Development
 - React.js
-- REST APIs (basic understanding)
-- Database Integration
-
-## Tools & Technologies
+- Git and GitHub
 - Cisco Packet Tracer
 - Wireshark
-- Git & GitHub
 - Linux Terminal
-- Microsoft Excel
-- Database Management Systems
 
 ---
 
-# Currently Learning
-
-- Advanced Network Security
-- Linux System Administration
-- Network Automation with Python
-- Cloud Infrastructure Fundamentals
-
----
-
-# Certifications
+## Certifications
 
 - Cisco Networking Basics
-- CCNA: Enterprise Networking, Security, and Automation
-
----
-
-# Education
-
-**Minnesota State University, Mankato**  
-Bachelor of Science in Computer Science  
-Expected Graduation: Spring 2026
-
-**North Hennepin Community College**  
-Associate Degree in Computer Science
-
----
-
-# Current Focus
-
-Currently working on projects involving:
-
-- Enterprise Network Design
-- Packet Traffic Analysis
-- Python Security Tools
-- Linux Log Analysis
-- System Design Documentation
-
----
-
-# Connect With Me
-
-Email: sasmit.tomar@mnsu.edu
+- CCNA - Enterprise Networking, Security, and Automation
