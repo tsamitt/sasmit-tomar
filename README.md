@@ -3,90 +3,55 @@
 Computer Science student at Minnesota State University, Mankato  
 Expected Graduation - Spring 2026
 
-I am interested in building a career in:
+Interested in:
 
 - Network Engineering
 - Systems Analysis
 - Cybersecurity
-- Infrastructure and Security Operations
 
-I enjoy building practical projects that show how networks, systems, and security concepts work in real environments. My GitHub focuses on hands-on labs, system design, packet analysis, infrastructure architecture, and security documentation.
+I build projects focused on network design, infrastructure architecture, packet analysis, Python security tools, and secure system design.
 
----
+## Skills
 
-## About Me
-
-I am a Computer Science student with an interest in networking, systems infrastructure, and cybersecurity. I like working on projects that combine technical problem-solving with documentation and design.
-
-My experience includes:
-
-- enterprise network design using Cisco Packet Tracer
-- data center architecture planning
-- packet and traffic analysis using Wireshark
-- Python-based security and networking tools
-- system analysis and design projects following the SDLC
-- leadership experience as a project manager and student leader
-
-I am currently focused on strengthening my skills for entry-level roles in network engineering, systems support, and cybersecurity.
-
----
-
-## Technical Interests
-
-- Network Design and Troubleshooting
-- Enterprise Infrastructure
-- Cybersecurity Fundamentals
-- Security Analysis and Documentation
-- Linux and System Administration
-- Secure System Design
-
----
-
-## Technical Skills
-
-### Networking
+**Networking**
 - TCP/IP
 - Subnetting
 - VLANs
 - Routing
 - DHCP
-- DNS Fundamentals
-- Network Troubleshooting
-- Access Control Lists (ACLs)
-- Network Segmentation
+- DNS
+- ACLs
 
-### Cybersecurity
+**Cybersecurity**
 - Packet Analysis
-- Vulnerability Assessment
 - Threat Modeling
-- Security Documentation
-- Role-Based Access Control (RBAC)
+- Vulnerability Assessment
 - Log Analysis
-- Basic Secure Coding Concepts
-- Security Risk Review
+- Security Documentation
 
-### Systems and Infrastructure
-- Linux Basics
-- System Troubleshooting
-- Client-Server Architecture
-- Web-Based System Design
-- Infrastructure Fundamentals
-- Cloud Architecture Concepts
-
-### Programming and Tools
+**Tools and Technologies**
 - Python
-- Java
 - SQL
-- C++
+- Java
 - React.js
-- Git and GitHub
 - Cisco Packet Tracer
 - Wireshark
-- Linux Terminal
-
----
+- Linux
+- GitHub
 
 ## Certifications
-
 - Cisco Networking Basics
 - CCNA - Enterprise Networking, Security, and Automation
+
+## Featured Projects
+- Enterprise Multi-Site Network
+- Buenos Aires Data Center Architecture
+- Smart Service Request Management System
+- Wireshark Packet Analysis Lab
+- Python Port Scanner
+- Linux Log Analysis
+- SQL Injection Testing and Remediation
+
+## Contact
+- LinkedIn: [Add link]
+- Email: sasmit.tomar@mnsu.edu
