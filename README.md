@@ -53,5 +53,4 @@ I build projects focused on network design, infrastructure architecture, packet 
 - SQL Injection Testing and Remediation
 
 ## Contact
-- LinkedIn: [Add link]
 - Email: sasmit.tomar@mnsu.edu
