@@ -1,7 +1,7 @@
 # Hi, I'm Sasmit Tomar
 
 Computer Science student at Minnesota State University, Mankato  
-Expected Graduation - Spring 2026
+Expected Graduation - Spring 2027
 
 Interested in:
 
